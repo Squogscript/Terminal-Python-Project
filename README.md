@@ -1,2 +1,2 @@
 # Terminal-Python-Project
-Python LBP and Posture Exercise and Education 
+Python - General Low Back Pain and Posture: Exercises and Education Depending on User Input Information
